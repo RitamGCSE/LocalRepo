@@ -1,0 +1,39 @@
+/* Basic color styles for your project */
+
+body {
+    background-color: #f0f0f0; /* Light gray background */
+    color: #333333; /* Dark gray text */
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    color: #2c3e50; /* Dark blue for headings */
+}
+
+a {
+    color: #3498db; /* Bright blue for links */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1abc9c; /* Green for hovered links */
+}
+
+button {
+    background-color: #e74c3c; /* Red button background */
+    color: #ffffff; /* White button text */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c0392b; /* Darker red on hover */
+}
+
+footer {
+    background-color: #34495e; /* Dark gray-blue footer */
+    color: #ecf0f1; /* Light gray text */
+    padding: 20px;
+    text-align: center;
+}
